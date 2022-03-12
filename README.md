@@ -23,7 +23,7 @@ Try FILM to interpolate between two or more images with the PyTTI-Tools at [![Py
 
 ## Change Log
 
-* **Mar 12, 2022**: Support for Windows, see [WINDOWS_INSTALLATION.md](https://github.com/google-research/frame-interpolation/blob/main/WINDOWS_INSTALLATION.md).
+* **Mar 12, 2022**: Support for Windows, see [WINDOWS_INSTALLATION.md](https://github.com/justinjohn0306/frame-interpolation/blob/main/WINDOWS_INSTALLATION.md).
 * **Mar 09, 2022**: Support for **high resolution frame interpolation**. Set `--block_height` and `--block_width` in `eval.interpolator_test` to extract patches from the inputs, and reconstruct the interpolated frame from the iteratively interpolated patches.
 
 ## Installation
