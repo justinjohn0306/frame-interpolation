@@ -52,7 +52,7 @@ Try FILM to interpolate between two or more images with the PyTTI-Tools at [![Py
 > apt-get install ffmpeg
 ```
 
-### See [WINDOWS_INSTALLATION](https://github.com/google-research/frame-interpolation/blob/main/WINDOWS_INSTALLATION.md) for Windows Support
+### See [WINDOWS_INSTALLATION](https://github.com/justinjohn0306/frame-interpolation/blob/main/WINDOWS_INSTALLATION.md) for Windows Support
 
 ## Pre-trained Models
 
