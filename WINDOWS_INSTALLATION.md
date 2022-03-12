@@ -93,6 +93,12 @@ python "D:\REPOS\frame-interpolation\eval\interpolator_test.py" --frame1 "D:\REP
     --model_path <pretrained_models>\film_net\Style\saved_model ^
     --output_frame frame_interpolation\photos\output_frame.png
 ```
+```
+python "D:\REPOS\frame-interpolation\eval\interpolator_test.py" --frame1 "D:\REPOS\frame_interpolation\photos\one.png" --frame2 "D:\REPOS\frame_interpolation\photos\two.png" --block_height 2 --block_wdith 2 --model_path "D:\REPOS\frame-interpolation\pretrained_models\film_net\Style\saved_model" --output_frame "D:\REPOS\frame_interpolation\photos\output_frame.png"
+
+```
+
+
 * Many in-between frames interpolation
 ```
 > python -m frame_interpolation.eval.interpolator_cli ^
